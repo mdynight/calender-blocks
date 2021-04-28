@@ -6,10 +6,13 @@ A user can add a note with a date and a block (card) will be displayed to repres
 ## Process
 
 ### Database Design
+#### Table Design
 | Primary Key | Field 2 |
 | --- | --- |
+#### DDL
+    SQL goes here
 | Date | Content |
-### Query Design (SQL)
+### Query Design (DML)
 | Query # | Query 1 | Query 2 | Query 3 |
 | --- | --- | --- | --- |
 | Job | Select all records (to be displayed) | Insert a record (Date & Cotent) | Delete a record (Date) |
