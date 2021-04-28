@@ -18,12 +18,24 @@ A user can add a note with a date and a block (card) will be displayed to repres
 | Job | Select all records (to be displayed) | Insert a record (Date & Cotent) | Delete a record (Date) |
 | SQL | | | |
 ### Markup (HTML5)
+    <!-- Display -->
     <ul>
         <li>
             <span class='date'>27/4</span>
             <span class='content'>Do the thing</span>
         </li>
     </ul>
+    
+    
+    <!-- Form -->
+    <div id='block-area'>    
+        <form method="post" action="includes/insert.php">
+            <input type="date" id='new-block-date'
+            <input type="text" id='new-block-content' name='new-block-content'>
+            <input type="submit" name="submit" value="Add Block">
+        </form>
+    </div>    
+    
 ### Scripting (PHP)
 * Script to run Query 1
 * Script to loop li creation based on number of records retrieved in Query 1
