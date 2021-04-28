@@ -39,7 +39,7 @@ A user can add a note with a date and a block (card) will be displayed to repres
 ### Scripting (PHP)
 * Script to run Query 1
 * Script to loop li creation based on number of records retrieved in Query 1
-* Script to send Query 2 with form content
-* Script to send Query 3 with specific record key
+* Script to send Query 2 with form content (insert.php)
+* Script to send Query 3 with specific record key (delete.php)
 ### Styling (CSS6)
 * Flex the li
