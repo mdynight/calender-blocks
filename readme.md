@@ -23,7 +23,6 @@ I have an idea of the process I would like to use but this is bound to change
 ## Process
 
 * Database Design
-    * Table Design
     | Primary Key | Field 2 |
     | --- | --- |
     | Date | Content |
