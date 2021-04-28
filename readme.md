@@ -27,6 +27,11 @@ I have an idea of the process I would like to use but this is bound to change
     | --- | --- |
     | Date | Content |
 * Query Design (SQL)
+    | Query # | Query 1 | Query 2 | Query 3 |
+    | --- | --- | --- | --- |
+    | Job | Select all records (to be displayed) | Insert a record (Date & Cotent) | Delete a record (Date) |
+    | --- | --- | --- | --- |
+    | SQL | | | |
     * Query 1: Select all records (to be displayed)
     * Query 2: Insert a record (Date & Content)
     * Query 3: Delete a record (Date)
