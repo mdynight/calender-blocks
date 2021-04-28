@@ -7,8 +7,8 @@ A user can add a note with a date and a block (card) will be displayed to repres
 I have an idea of the process I would like to use but this is bound to change
 
 * Database Design
-        Relational Database? --> ERD?
-        Table Design
+    * Relational Database? --> ERD?
+    * Table Design
 * Query Design
         Queries to read data
         Queries to insert data
