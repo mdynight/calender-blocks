@@ -24,7 +24,9 @@ I have an idea of the process I would like to use but this is bound to change
 
 * Database Design
     * Table Design
-    * Date: Primary Key | Content
+    | Primary Key | Field 2 |
+    | --- | --- |
+    | Date | Content |
 * Query Design (SQL)
     * Query 1: Select all records (to be displayed)
     * Query 2: Insert a record (Date & Content)
