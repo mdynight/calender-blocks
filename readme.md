@@ -9,9 +9,9 @@ A user can add a note with a date and a block (card) will be displayed to repres
 #### Table Design
 | Primary Key | Field 2 |
 | --- | --- |
+| Date | Content |
 #### DDL
     SQL goes here
-| Date | Content |
 ### Query Design (DML)
 | Query # | Query 1 | Query 2 | Query 3 |
 | --- | --- | --- | --- |
