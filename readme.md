@@ -10,31 +10,31 @@ I have an idea of the process I would like to use but this is bound to change
     * Relational Database? --> ERD?
     * Table Design
 * Query Design
-        Queries to read data
-        Queries to insert data
-        Queries to modify data
+    * Queries to read data
+    * Queries to insert data
+    * Queries to modify data
 * Markup
-        Render data dynamically as semantic elements
+    * Render data dynamically as semantic elements
 * Scripting
-        Script inserted into markup to run queries
+    * Script inserted into markup to run queries
 * Styling
-        CSS
+    * CSS
         
 ## Process
 
 * Database Design
-        Table Design
-        Date: Primary Key | Content
+    * Table Design
+    * Date: Primary Key | Content
 * Query Design (SQL)
-        Query 1: Select all records (to be displayed)
-        Query 2: Insert a record (Date & Content)
-        Query 3: Delete a record (Date)
+    * Query 1: Select all records (to be displayed)
+    * Query 2: Insert a record (Date & Content)
+    * Query 3: Delete a record (Date)
 * Markup (HTML5)
-        Display record as a li with span for fields (?)
+    * Display record as a li with span for fields (?)
 * Scripting (PHP)
-        Script to run Query 1
-        Script to loop li creation based on number of records retrieved in Query 1
-        Script to send Query 2 with form content
-        Script to send Query 3 with specific record key
+    * Script to run Query 1
+    * Script to loop li creation based on number of records retrieved in Query 1
+    * Script to send Query 2 with form content
+    * Script to send Query 3 with specific record key
 * Styling (CSS6)
-        Flex the li
+    * Flex the li
